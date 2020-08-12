@@ -1,0 +1,1 @@
+Financial blog built using React, Ruby-on-Rails, Webpacker, and Bootstrap
